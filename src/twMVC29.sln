@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.13
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "twMVC29", "twMVC29\twMVC29.csproj", "{BDFCC9BD-8380-4CFE-85EE-C478BDF63D88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twMVC29.Model", "twMVC29.Model\twMVC29.Model.csproj", "{2A56D9FD-4761-483D-B20E-385E6057EB23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "twMVC29.Model", "twMVC29.Model\twMVC29.Model.csproj", "{2A56D9FD-4761-483D-B20E-385E6057EB23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "twMVC29.Schedule", "twMVC29.Schedule\twMVC29.Schedule.csproj", "{5644B227-1BDE-4BA4-AC95-13A4FDB05A52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2A56D9FD-4761-483D-B20E-385E6057EB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A56D9FD-4761-483D-B20E-385E6057EB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A56D9FD-4761-483D-B20E-385E6057EB23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5644B227-1BDE-4BA4-AC95-13A4FDB05A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5644B227-1BDE-4BA4-AC95-13A4FDB05A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5644B227-1BDE-4BA4-AC95-13A4FDB05A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5644B227-1BDE-4BA4-AC95-13A4FDB05A52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
